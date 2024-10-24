@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "深圳职业技术大学人工智能学院模式分析与机器智能课题组网站"
+title: "深圳职业技术大学人工智能学院模式分析与机器智能课题组"
 author_profile: true
 redirect_from: 
   - /about/
