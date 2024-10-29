@@ -9,7 +9,20 @@ redirect_from:
 
 这是深职大PAMI（Pattern Analysis and Machine Intelligence，PAMI）课题组的网站！欢迎大家关注！
 
-by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**深圳职业技术大学人工智能学院模式分析与机器智能课题组**专注于模式分析、计算机视觉和智能人机交互领域的前沿研究，致力于推动人工智能技术在安防、智能制造、教育和医疗等实际应用中的创新发展。课题组由吴庆甜博士领衔，成员包括多位在模式识别和计算机视觉领域拥有丰富经验的学术带头人及优秀的研究生和本科生。
+
+课题组的研究方向主要涵盖以下几个方面：
+
+1. **计算机视觉与深度学习**：利用深度神经网络开发智能化视觉算法，应用于图像识别、目标检测、行为分析等场景。近年来课题组在X光安检图像检测、大规模数据集的自动标注等项目中获得了显著成果。
+
+2. **智能监控与安防系统**：探索将机器学习与模式分析技术应用于视频监控与安防系统中，针对复杂场景下的小目标检测、多物体遮挡及快速识别等问题提出创新解决方案，并已在多个科研竞赛中斩获佳绩。
+
+3. **人机交互与虚拟人研究**：课题组正积极探索虚拟人生成技术，研究高保真、自然的虚拟人面部生成与实时交互，推动虚拟主播、智能教育助手等领域的技术应用。
+
+4. **智能制造与缺陷检测**：研发基于改进YOLO的PCB缺陷检测系统，为工业制造提供高效的自动化检测方案。已通过专利申请并获得业内关注。
+
+课题组不仅注重理论研究，更专注于解决实际应用中的技术挑战。多年来，团队积极参与国内外知名竞赛和合作项目，获得了多项奖项与资助，为推动人工智能技术在行业中的应用贡献了坚实力量。
+
 
 A data-driven personal website
 ======
