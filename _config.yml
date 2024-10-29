@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "深职大-PAMI组"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "深职大-模式分析与机器智能课题组"
+  location         : "Shenzhen，深圳"
+  employer         : "深圳职业技术大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wuqingtian@szpu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
