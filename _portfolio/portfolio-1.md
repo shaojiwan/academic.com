@@ -1,7 +1,8 @@
 ---
 title: "科研助理：喻国庆"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "<br/><img src='/resources/ygq.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+热爱阅读、旅行和摄影；精通Stable Diffusion技术
+成功参与并荣获PRCV2024大规模X光安检图像检测挑战赛一等奖；撰写两篇专利； 
