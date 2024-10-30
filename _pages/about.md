@@ -17,7 +17,7 @@ redirect_from:
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/prcv.jpg' alt="医学图像分割" style="max-width: 100%; height: auto;" />
+  <img src='/resources/prcv.jpg' alt="医学图像分割" style="max-width: 60%; height: auto;" />
 </div>
 
 3. **智能监控与安防系统**：探索将机器学习与模式分析技术应用于视频监控与安防系统中，针对复杂场景下的小目标检测、多物体遮挡及快速识别等问题提出创新解决方案，并已在多个科研竞赛中斩获佳绩。
@@ -27,7 +27,10 @@ redirect_from:
 5. **智能制造与缺陷检测**：研发基于改进YOLO的PCB缺陷检测系统，为工业制造提供高效的自动化检测方案。已通过专利申请并获得业内关注。
 
 课题组不仅注重理论研究，更专注于解决实际应用中的技术挑战。多年来，团队积极参与国内外知名竞赛和合作项目，获得了多项奖项与资助，为推动人工智能技术在行业中的应用贡献了坚实力量。
-
+<!-- 在这里添加图片 -->
+<div class="archive__image">
+  <img src='/resources/PCB-det.png' alt="缺陷检测" style="max-width: 60%; height: auto;" />
+</div>
 
 A data-driven personal website
 ======
