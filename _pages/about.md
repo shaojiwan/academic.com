@@ -99,5 +99,5 @@ YOLO-World（You Only Look Once - World）是一种先进的开放目标检测�
 更多信息
 ------
 我们的研究方向是开放的，持续更新中
-<img src="https://visitor-badge.glitch.me/badge?page_id=shaojiwan.github.io" alt="visitor">
 
+<a href="https://info.flagcounter.com/sMpz"><img src="https://s01.flagcounter.com/count2/sMpz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
