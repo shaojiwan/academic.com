@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/resources/logo2.png"
   name             : "深职大-PAMI组"
   pronouns         : # example: "she/her"  
   bio              : "深职大-模式分析与机器智能课题组"
