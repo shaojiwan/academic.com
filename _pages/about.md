@@ -13,21 +13,24 @@ redirect_from:
 
 课题组的研究方向主要涵盖以下几个方面：
 
-1. **医学图像分割**：医学图像分割是计算机视觉和医学成像领域中的一个重要任务，旨在将医学图像中的特定结构或区域从背景中提取出来。其主要目标是辅助医生在影像学诊断、手术计划和治疗效果评估等方面，提高效率和准确性。
+## 1. **医学图像分割**：
+医学图像分割是计算机视觉和医学成像领域中的一个重要任务，旨在将医学图像中的特定结构或区域从背景中提取出来。其主要目标是辅助医生在影像学诊断、手术计划和治疗效果评估等方面，提高效率和准确性。
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
   <img src='/resources/医学分割.png' alt="医学图像分割"  style="width: 60%; height: auto;" />
 </div>
 
-2. **人体姿态估计**：人体姿态检测是计算机视觉领域中用于识别和预测图像或视频中人体关键点位置的技术，它包括2D和3D姿态估计、评估方法、DensePose以及人体参数化模型等，广泛应用于动作识别、虚拟现实、人机交互和视频监控等多个领域。
+## 2. **人体姿态估计**：
+人体姿态检测是计算机视觉领域中用于识别和预测图像或视频中人体关键点位置的技术，它包括2D和3D姿态估计、评估方法、DensePose以及人体参数化模型等，广泛应用于动作识别、虚拟现实、人机交互和视频监控等多个领域。
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
   <img src='/resources/姿态图.png' alt="人体姿态估计"  style="width: 60%; height: auto;" />
 </div>
 
-3. **扩散模型：SD**：Stable Diffusion（简称SD）是一个由CompVis、Stability AI和LAION等公司研发的开源文生图模型，它以其约1B参数量、能够在普通显卡上运行推理和模型精调而广受欢迎，基于latent空间的扩散模型技术，SD能够高效地从文本描述生成图像或对现有图像进行编辑和风格转换，推动了AIGC技术的普及和发展。
+## 3. **扩散模型：SD**：
+Stable Diffusion（简称SD）是一个由CompVis、Stability AI和LAION等公司研发的开源文生图模型，它以其约1B参数量、能够在普通显卡上运行推理和模型精调而广受欢迎，基于latent空间的扩散模型技术，SD能够高效地从文本描述生成图像或对现有图像进行编辑和风格转换，推动了AIGC技术的普及和发展。
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
@@ -38,14 +41,14 @@ redirect_from:
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/talking face generation.png' alt="talking face generation" style="-width: 60%; height: auto;" />
+  <img src='/resources/talking face generation.png' alt="talking face generation" style="width: 60%; height: auto;" />
 </div>
 
 
 5. **通用目标检测**：通用目标检测是一种旨在识别和定位图像或场景中任意目标的技术，它不依赖于大规模基准数据集，而是具备强大的泛化能力，能够在开放世界中处理未知类别和新领域的数据，无需重新构建数据集或进行大规模的重新训练，同时能够识别未被引入的物体实例为“未知”，并在逐渐收到相应标签时，增量学习这些已识别的未知类别，而不会遗忘先前学习的类别。
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/通用模型.png' alt="通用目标检测" style="-width: 60%; height: auto;" />
+  <img src='/resources/通用模型.png' alt="通用目标检测" style="width: 60%; height: auto;" />
 </div>
 
 
@@ -62,20 +65,20 @@ redirect_from:
 课题组不仅注重理论研究，更专注于解决实际应用中的技术挑战。多年来，团队积极参与国内外知名竞赛和合作项目，获得了多项奖项与资助，为推动人工智能技术在行业中的应用贡献了坚实力量。
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/PCB-det.png' alt="缺陷检测" style="-width: 60%; height: auto;" />
+  <img src='/resources/PCB-det.png' alt="缺陷检测" style="width: 60%; height: auto;" />
 </div>
 
 8. **X光安检检测**：X光安检检测是一种非侵入式的安全检查技术，它利用X射线穿透物品的能力来检测行李、包裹和人体内部的违禁品或危险物品，如武器、爆炸物和毒品等，广泛应用于机场、地铁站、大型活动场所等公共场所的安全检查中，以确保人员和设施的安全。
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/X光检测.jpg' alt="X光安检检测" style="-width: 60%; height: auto;" />
+  <img src='/resources/X光检测.jpg' alt="X光安检检测" style="width: 60%; height: auto;" />
 </div>
 
 9. **YOLO-World开放目标检测**：YOLO-World（You Only Look Once - World）是一种先进的开放目标检测技术，旨在识别和定位图像中的各种对象，即使在面对未知类别或在复杂场景中也能保持高效和准确的性能。这种技术通过单次前向传播即可实现快速检测，无需额外的区域建议或复杂的后处理步骤，使其在实时应用和大规模视觉识别任务中具有广泛的应用潜力。
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/YOLO-World开放目标检测.png' alt="人体姿态估计"  style="width: 60%; height: auto;" />
+  <img src='/resources/YOLO-World开放目标检测.png' alt="人体姿态估计"  style="width: 100%; height: auto;" />
 </div>
 
 
