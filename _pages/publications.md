@@ -8,12 +8,6 @@ redirect_from:
 ---
 
 
-Education
-------
-* 08/2020-04/2024, Ph.D., Computer Science, University of Macau
-* 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
-* 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
-
 Selected Publications
 ------
 * **Qingtian Wu**, Nannan Li, Liming Zhang and Fei Yu. [Driver Drowsiness Detection Based on Joint Human Face and Facial Landmark Localization with Cheap Operations](https://ieeexplore.ieee.org/abstract/document/10124029). Accepted in IEEE Transactions on Intelligent Transportation Systems  (IF: 7.9, JCR: Q1), 2024. <u>(First Author)</u>
