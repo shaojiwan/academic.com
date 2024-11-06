@@ -35,24 +35,6 @@ In-peer-review Publications
 
 * **Qingtian Wu** and Liming Zhang. YOLOLandmark: an End-to-End Deep Network for Real-time Face and Its Dense Facial Landmark Detection. Under Review. (First Author).
 
-Work  Experiences
-------
-* Research Assistant, Biorobotics Lab, National University of Singapore. (From 09/2019 to 03/2020)
-<!-- Developing visual interaction system of tracking moving targets and engaging with users. -->
-* Research Assistant, Intelligent System Lab, SIAIT-CAS-CUHK. (From 08/2018 to 09/2019)
-<!-- Researching on UAV-based visual target detection and life searching in rescue and monitoring. -->
-* Engineer, 2012 Lab, Huawei. (From 06/2017 to 07/2018)
-
-<!-- Software development, and NLP algorithm research -->
-
-Teach  Experiences
-------
-Teaching Assistant, Faculty of Science and Technology, University of Macau
-* Multimedia computing 2020-2021, 2021-2022
-* OOP and Data Structures 2020-2021, 2021-2022, 2022-2023
-* Discrete System Simulation 2021-2022
-* Pattern Recognition 2020-2021
-* English Language Centre - Independent Learning 2020-2021
 
 Research Experiences
 ------
@@ -73,6 +55,7 @@ Research Project
 
 Awards
 ------
+* 2024年，IEEE PRCV X光安检挑战赛第一名
 * 2020-2023年，澳门大学博士助学金
 * 2019年，第九届吴文俊人工智能科技进步三等奖(第四完成人)
 * 2014年，深圳大学校级优秀毕业生
