@@ -28,6 +28,7 @@ Education
 * M.S. in Pattern Recognition and Intelligent System, University of Chinese Academy of Sciences, 2014.09-2019.06
 * B.S. in Electronic information engineering, Shenzhen University, 2010.09-20104.06
 
+
 Work experience
 ======
 * Spring 2024: 讲师
@@ -37,6 +38,9 @@ Work experience
 * 2019.12-2020.05: Research Assistant
   * 新加坡国立大学  
   * 主要工作：参与项目，机器视觉。
+
+* Research Assistant, Intelligent System Lab, SIAIT-CAS-CUHK. (From 08/2018 to 09/2019)
+<!-- Researching on UAV-based visual target detection and life searching in rescue and monitoring. -->
 
 * 2017.06-2018.07: Engineer
   * 华为  
