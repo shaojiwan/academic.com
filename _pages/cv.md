@@ -45,32 +45,20 @@ Work experience
   * 华为  
   * 主要工作：程序员，预研。
   
-Skills
+在研方向
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 多模态大模型
+* 计算机视觉
+  * 扩散模型
+  * 开放世界目标检测
+  * 检测模型
+  * 姿态估计
+  * 医学图像分割
+* 数字人
+  * Talking face generation
+  * 3D Pose
+  * Avatar
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
