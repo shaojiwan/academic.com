@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: "学术成果"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /publications
+---
 
 Personal Introduction
 ======
