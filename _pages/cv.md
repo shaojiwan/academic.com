@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+
+Personal Introduction
+======
+Currently, I am a Lecturer in the School of Artificial Intelligence, Shenzhen Polytechnic University. In April 2024, I got my doctoral degree from [Faculty of Science and Technology](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), with research interests in Computer Vision and Intelligent Systems. I also stay updated on the latest developments in Stable Diffusion and AIGC.
+
+I am very fortunate to be supervised by [Prof. Liming Zhang](https://www.fst.um.edu.mo/people/lmzhang/) from University of Macau. I was supervised by [Prof. Zhou Yimin](https://people.ucas.ac.cn/~zym) and [Prof. Wu Xinyu](https://people.ucas.ac.cn/~wuxinyu)  from [Shenzhen Institutes of Advanced Technology (SIAT)](https://www.siat.ac.cn/), Chinese Academy of Science (CAS). I also have an internship at Guangming Laboratory,  supervised by [Prof. Fei Richard Yu](https://csse.szu.edu.cn/pages/user/index?id=1199).  
+
+
+You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
+
+[Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
+
+
 Education
 ======
 * Ph.D in Computer Science, Macau University, 2020.08-2024.02 
