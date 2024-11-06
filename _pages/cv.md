@@ -21,12 +21,11 @@ You can find my CV here: [Curriculum Vitae English](../files/resume_wqt2.pdf)
 
 [Email](mailto:qt.wu@outlook.com) / [Github](https://github.com/qingtianwu) / [CSDN](https://blog.csdn.net/wqthaha?type=blog)
 
-
 Education
 ======
-* Ph.D in Computer Science, Macau University, 2020.08-2024.02 
-* M.S. in Pattern Recognition and Intelligent System, University of Chinese Academy of Sciences, 2014.09-2019.06
-* B.S. in Electronic information engineering, Shenzhen University, 2010.09-20104.06
+* 08/2020-04/2024, Ph.D., Computer Science, University of Macau
+* 09/2014-06/2017, M.S., Computer Science, University of Chinese Academy of Sciences
+* 09/2010-06/2014, B.Eng., Information Engineering, Shenzhen University
 
 
 Work experience
