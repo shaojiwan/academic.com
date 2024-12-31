@@ -10,7 +10,7 @@ tags:
 
 <!-- 在这里添加图片 -->
 <div class="archive__image">
-  <img src='/resources/PCB-det.png' alt="实测效果图" style="max-width: 100%; height: auto;" />
+  <img src='/resources/XRanyDemo.png' alt="实测效果图" style="max-width: 100%; height: auto;" />
 </div>
 
 
